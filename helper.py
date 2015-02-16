@@ -6,3 +6,6 @@ def greeting(msg):
 
 def orderUp(msg):
     print(msg)
+
+def name(name):
+    print (name)
